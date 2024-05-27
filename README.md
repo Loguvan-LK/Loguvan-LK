@@ -62,7 +62,7 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 📈 GitHub Stats 
-[![loguvan-lk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loguvan-lk&show_icons=true&locale=en)](https://github.com/loguvan-lk)
-[![loguvan-lk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loguvan-lk&show_icons=true&locale=en&layout=compact)](https://github.com/loguvan-lk)
+<!--[![loguvan-lk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loguvan-lk&show_icons=true&locale=en)](https://github.com/loguvan-lk)-->
+<!--[![loguvan-lk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loguvan-lk&show_icons=true&locale=en&layout=compact)]-->(https://github.com/loguvan-lk)
 
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loguvan-lk&" alt="loguvan-lk" /></p-->
